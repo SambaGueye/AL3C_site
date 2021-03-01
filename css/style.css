@@ -407,36 +407,34 @@ ABOUT SECTION
 	margin: 0 16px 0 0;
 	padding: 12px;
 	border-right: 1px solid #44bf6d;
-	color: #44bf6d;
+	color: #04541e;
 	font-size: 25px;
 	font-weight: 300;
 }
 
+
 .about-box > .title.-one:before {
-	content: '05';
-}
-.about-box > .title1.-one:before {
 	content: '01';
 }
 
 .about-box > .title.-two:before {
-	content: '06';
-}
-.about-box > .title1.-two:before {
 	content: '02';
 }
-
 .about-box > .title.-three:before {
-	content: '07';
-}
-.about-box > .title1.-three:before {
 	content: '03';
 }
-.about-box > .title.-five:before {
+
+.about-box > .title.-four:before {
 	content: '04';
 }
-.about-box > .title1.-five:before {
-	content: '04';
+.about-box > .title.-five:before {
+	content: '05';
+}
+.about-box > .title.-six:before {
+	content: '06';
+}
+.about-box > .title.-seven:before {
+	content: '07';
 }
 
 
