@@ -805,7 +805,8 @@ RESPONSIVE
 	HOME SECTION
 	***********************/
 	.home .h1 {
-		font-size: 35px;
+		font-size:35px;
+		color: white;
 	}
 	/**********************
 	HELPER CLASSES
