@@ -383,14 +383,11 @@ ABOUT SECTION
 
 .about-box > .title {
 	padding: 12px 0;
+	font-size:20px;
 	text-align: center;
 	color:  white;
 }
-.about-box > .title1 {
-	padding: 12px 0;
-	text-align: center;
-	color:  white;
-}
+
 
 .about-box > .title:before {
 	content: '';
@@ -807,6 +804,10 @@ RESPONSIVE
 	.home .h1 {
 		font-size:35px;
 		color: white;
+	}
+
+	.about-box > .title {
+		font-size:30px;
 	}
 	/**********************
 	HELPER CLASSES
